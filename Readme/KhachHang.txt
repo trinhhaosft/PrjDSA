@@ -58,11 +58,4 @@
 60 | Vo Van Khoa | Quan 1 | 17 | 14
 70 | Phat | quan 2 | 2 | 3
 71 | Phat | quan 1 | 2 | 3
-72 | Danh | quan 1 | 2 | 3
-100 | Phat | quan 1 | 2 | 3
-101 | Phat | 2 | 0 | 0
-102 | Phat | quan 1 | 2 | 0
-103 | Phat | quan 1 | 0 | 0
-104 | Phat | quan 1 | 2 | 0
-105 | Phat | quan 1 | 2 | 3
-111 | Phat | quan 1 | 2 | 3
+73 | Phuoc | Quan 2 | 2 | 3

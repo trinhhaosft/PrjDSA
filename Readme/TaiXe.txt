@@ -1,0 +1,19 @@
+1 | Nguyen Van Hung | 4,80952380952381 | 6 | 9 | driver_1 | 126 | 5 | False
+2 | Tran Quoc Bao | 4,5 | 14 | 7 | driver_2 | 200 | 8 | False
+3 | Le Thanh Phong | 4,9 | 8 | 15 | driver_3 | 350 | 10 | True
+4 | Pham Duc Long | 4,15384615384615 | 21 | 17 | driver_4 | 91 | 3 | False
+5 | Vo Minh Tuan | 3,9 | 10 | 5 | driver_5 | 60 | 2 | False
+6 | Dang Hoang Nam | 4,7 | 16 | 11 | driver_6 | 180 | 6 | True
+7 | Bui Tien Dat | 4,6 | 18 | 8 | driver_7 | 240 | 7 | False
+9 | Tran Minh Khoa | 4,3 | 12 | 6 | driver_9 | 150 | 4 | False
+10 | Le Van Tien | 4,55 | 20 | 9 | driver_10 | 220 | 7 | True
+11 | Pham Hoang Son | 4 | 11 | 5 | driver_11 | 100 | 3 | False
+12 | Nguyen Duc Anh | 4,85 | 15 | 12 | driver_12 | 310 | 9 | True
+13 | Vo Thanh Dat | 4,4 | 9 | 7 | driver_13 | 130 | 4 | False
+15 | Phat | 5 | 2 | 3 | Drive | 2 | 60 | True
+16 | Thanh Phat | 4 | 2 | 3 | Driver | 6 | 0 | False
+17 | Nguyen Van Tien | 4,6 | 14 | 8 | driver_17 | 210 | 6 | False
+18 | Le Hoang Phuc | 4,75 | 19 | 11 | driver_18 | 280 | 8 | True
+19 | Tran Quang Minh | 4,1 | 7 | 4 | driver_19 | 90 | 2 | False
+20 | Vo Van Nam | 4,5 | 13 | 9 | driver_20 | 170 | 5 | False
+22 | An | 0 | 2 | 5 | An_Driver | 0 | 40 | False
