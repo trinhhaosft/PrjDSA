@@ -66,7 +66,7 @@ Hệ thống hỗ trợ quản lý khách hàng, tài xế, chuyến đi và d�
 - Chức năng: thêm, xóa, cập nhật, lọc theo quận, xóa toàn bộ file khách hàng, top K khách hàng.
 - Undo/Redo hỗ trợ bởi `LichSuThaoTac`.
 [Menu quản lý khách hàng]
-![QuanLyKhachHang](./nowchallenge/Readme/qlkh.png)
+![alt text](<menu quản lí khách hàng.png>)
 
 ---
 
@@ -75,7 +75,7 @@ Hệ thống hỗ trợ quản lý khách hàng, tài xế, chuyến đi và d�
 - Chức năng: thêm, xóa, cập nhật, sắp xếp theo rating, xem lịch sử chuyến đi, xóa toàn bộ file tài xế, top k tài xế.
 - Undo/Redo hỗ trợ bởi `LichSuThaoTac`.
 -  [Menu quản lý tài xế]
-- ![QuanLyTaiXe](./nowchallenge/Readme/image.png)
+- ![alt text](image.png)
 
 ---
 
@@ -83,18 +83,16 @@ Hệ thống hỗ trợ quản lý khách hàng, tài xế, chuyến đi và d�
 - Chức năng: tìm tài xế phù hợp trong bán kính R, đặt xe tự động/thủ công.
 - Liên kết với `KhachHang`, `TaiXe`, tạo `ChuyenDi`.
 -[Dịch vụ đặt xe]
-![DichVuDatXe](./nowchallenge/Readme/image-1.png)
+![alt text](image-1.png)
 
 ---
 
 ### QuanLyFile
 - Chức năng: đọc/ghi file cho `KhachHang`, `TaiXe`, `ChuyenDi`.
 - Hỗ trợ xóa file với Undo/Redo.
-- [File dữ liệu] [Khách hàng](./nowchallenge/Readme/KhachHang.txt), [Tài xế](./nowchallenge/Readme/TaiXe.txt), [Chuyến đi](./nowchallenge/Readme/<Ride of Driver\Drive.txt>)
-![KhachHang](./nowchallenge/Readme/image-2.png)
-![TaiXe](./nowchallenge/Readme/image-3.png)
-![ChuyenDi](./nowchallenge/Readme/image-4.png)
-![ThongTinTaiXe](./nowchallenge/Readme/image-5.png)
+- [File dữ liệu] [Khách hàng](KhachHang.txt), [Tài xế](TaiXe.txt), [Chuyến đi](Drive.txt>)
+![alt text](image-2.png)![alt text](image-3.png)
+![alt text](image-4.png)![alt text](image-5.png)
 
 ---
 
@@ -103,9 +101,9 @@ Hệ thống hỗ trợ quản lý khách hàng, tài xế, chuyến đi và d�
 - Phương thức: `AddOperation(do, undo)`, `Undo()`, `Redo()`.
 - **Ghi chú UML:** «singleton»
 -Dùng hoàn tác hay tiến tới thao tác đang thực hiện 
-![alt text](./nowchallenge/Readme/image-10.png) ![alt text](./nowchallenge/Readme/image-11.png)
+![alt text](image-10.png) ![alt text](image-11.png)
 Và cũng như ở các thao tác 
-![alt text](./nowchallenge/Readme/image-13.png)
+![alt text](image-13.png)
 
 ---
 
@@ -114,7 +112,7 @@ Và cũng như ở các thao tác
 - Gọi các class quản lý để điều khiển toàn bộ hệ thống.
 ## ▶️ Menu chính
 Khi chạy chương trình, hệ thống hiển thị menu chính như sau:.
-![alt text](./nowchallenge/Readme/anh-menu-chinh.png)
+![alt text](<Ảnh menu chính.png>)
 
 ---
 
@@ -128,7 +126,7 @@ Khi chạy chương trình, hệ thống hiển thị menu chính như sau:.
 - `Program` gọi menu để điều khiển toàn bộ hệ thống.
 
 - [UML Class Diagram]
-  ![alt text](./nowchallenge/Readme/image-9.png)
+  ![alt text](image-9.png)
 
 - Chú thích:
 - 1. KhachHang, TaiXe, ChuyenDi → IGhiFile
