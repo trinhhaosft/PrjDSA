@@ -1,0 +1,9 @@
+1 | Nguyen Van Hung | 4,8 | 6 | 9 | driver_1 | 120 | 5 | false
+2 | Tran Quoc Bao | 4,5 | 14 | 7 | driver_2 | 200 | 8 | false
+3 | Le Thanh Phong | 4,9 | 8 | 15 | driver_3 | 350 | 10 | true
+4 | Pham Duc Long | 4,2 | 21 | 17 | driver_4 | 90 | 3 | false
+5 | Vo Minh Tuan | 3,9 | 10 | 5 | driver_5 | 60 | 2 | false
+6 | Dang Hoang Nam | 4,7 | 16 | 11 | driver_6 | 180 | 6 | true
+7 | Bui Tien Dat | 4,6 | 18 | 8 | driver_7 | 240 | 7 | false
+8 | Nguyen Quang Huy | 5 | 13 | 10 | driver_8 | 400 | 12 | false
+8 | p | 5 | 2 | 3 | 2 | 0 | 5 | False

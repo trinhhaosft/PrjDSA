@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="nowchallenge.ChuyenDi">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAgAAAAhAAQEAQAAAAAAAAAAAAQAgAAACIAAAgA=</HashCode>
+      <FileName>Chuyendi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="nowchallenge.KhachHang">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAEAAAEQAAAAAAAAEQBAABEAQAAAAA=</HashCode>
+      <FileName>Khachhang.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="nowchallenge.TaiXe">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAAAAAAABAAAAEAAAOAIAACACAAAQEAAAGBEgCAAA=</HashCode>
+      <FileName>Taixe.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

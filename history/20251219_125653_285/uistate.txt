@@ -1,0 +1,2 @@
+﻿Menu:ManageCustomers
+Desc:Open ManageCustomers

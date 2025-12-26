@@ -1,0 +1,10 @@
+1 | Nguyen Van An | Quan 1 | 5 | 8
+2 | Tran Thi Binh | Quan 3 | 12 | 6
+3 | Le Hoang Minh | Quan 5 | 7 | 14
+4 | Pham Ngoc Lan | Quan 7 | 20 | 18
+5 | Vo Quoc Huy | Quan 10 | 9 | 4
+6 | Dang Thi Mai | Quan Binh Thanh | 15 | 10
+7 | Bui Anh Tuan | Quan Tan Binh | 18 | 7
+8 | Nguyen Thi Hong | Quan Phu Nhuan | 13 | 9
+
+9 | p | 8 | 2 | 3

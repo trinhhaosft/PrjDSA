@@ -1,0 +1,68 @@
+1 | Nguyen Van An | Quan 1 | 5 | 8
+2 | Tran Thi Binh | Quan 3 | 12 | 6
+3 | Le Hoang Minh | Quan 5 | 7 | 14
+6 | Dang Thi Mai | Quan Binh Thanh | 15 | 10
+7 | Bui Anh Tuan | Quan Tan Binh | 18 | 7
+8 | Nguyen Thi Hong | Quan Phu Nhuan | 13 | 9
+9 | Tran Van Khoa | Quan 1 | 11 | 7
+10 | Nguyen Thi Lan | Quan 3 | 14 | 5
+11 | Pham Hoang Nam | Quan 5 | 6 | 12
+12 | Le Thi Thu | Quan 7 | 19 | 16
+13 | Vo Minh Tien | Quan 10 | 10 | 6
+14 | Dang Van Phuc | Quan Binh Thanh | 17 | 11
+15 | Bui Thi Hoa | Quan Tan Binh | 16 | 8
+16 | Nguyen Van Duc | Quan Phu Nhuan | 12 | 10
+17 | Nguyen Van Khang | Quan 1 | 10 | 6
+18 | Tran Thi Thu | Quan 1 | 7 | 9
+19 | Le Minh Quan | Quan 1 | 12 | 11
+20 | Pham Thi Huong | Quan 3 | 9 | 8
+21 | Vo Van Phat | Quan 3 | 15 | 7
+22 | Dang Thi Dao | Quan 3 | 11 | 10
+23 | Bui Van Long | Quan 5 | 8 | 13
+24 | Nguyen Thi My | Quan 5 | 10 | 9
+25 | Tran Hoang Phuc | Quan 5 | 14 | 12
+26 | Le Thi Cam | Quan 7 | 18 | 15
+27 | Vo Van Hieu | Quan 7 | 21 | 19
+28 | Nguyen Thi Bao | Quan 7 | 16 | 14
+29 | Pham Van Tien | Quan 10 | 8 | 5
+30 | Dang Thi Thao | Quan 10 | 12 | 7
+31 | Bui Van Son | Quan 10 | 11 | 6
+32 | Nguyen Thi Phuong | Quan Binh Thanh | 14 | 9
+33 | Tran Van Duong | Quan Binh Thanh | 16 | 12
+34 | Vo Thi Mai | Quan Binh Thanh | 13 | 8
+35 | Le Van Hung | Quan Tan Binh | 17 | 9
+36 | Nguyen Thi Dao | Quan Tan Binh | 15 | 10
+37 | Pham Van Kiet | Quan Tan Binh | 19 | 8
+38 | Vo Thi Lan | Quan Phu Nhuan | 12 | 11
+39 | Bui Van Phuc | Quan Phu Nhuan | 14 | 8
+40 | Tran Thi Hoa | Quan Phu Nhuan | 15 | 9
+41 | Nguyen Van Tuan | Quan 1 | 13 | 7
+42 | Tran Thi Linh | Quan 1 | 9 | 11
+43 | Le Hoang Duc | Quan 1 | 16 | 14
+44 | Pham Ngoc Anh | Quan 1 | 11 | 8
+45 | Vo Quoc Bao | Quan 1 | 14 | 6
+46 | Dang Thi Nga | Quan 1 | 18 | 10
+47 | Bui Anh Khoa | Quan 1 | 12 | 9
+48 | Nguyen Thi Mai | Quan 1 | 15 | 12
+49 | Tran Van Hieu | Quan 1 | 10 | 5
+50 | Nguyen Thi Huong | Quan 1 | 17 | 13
+51 | Pham Hoang Long | Quan 1 | 8 | 7
+52 | Le Thi Phuong | Quan 1 | 19 | 15
+53 | Vo Minh Tuan | Quan 1 | 12 | 8
+54 | Dang Van Thanh | Quan 1 | 14 | 11
+55 | Bui Thi Lan | Quan 1 | 16 | 9
+56 | Nguyen Van Phat | Quan 1 | 11 | 6
+57 | Tran Thi Dao | Quan 1 | 13 | 10
+58 | Le Minh Tuan | Quan 1 | 15 | 12
+59 | Pham Thi Nga | Quan 1 | 9 | 7
+60 | Vo Van Khoa | Quan 1 | 17 | 14
+70 | Phat | quan 2 | 2 | 3
+71 | Phat | quan 1 | 2 | 3
+72 | Danh | quan 1 | 2 | 3
+100 | Phat | quan 1 | 2 | 3
+101 | Phat | 2 | 0 | 0
+102 | Phat | quan 1 | 2 | 0
+103 | Phat | quan 1 | 0 | 0
+104 | Phat | quan 1 | 2 | 0
+105 | Phat | quan 1 | 2 | 3
+111 | Phat | quan 1 | 2 | 3

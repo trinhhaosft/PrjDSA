@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nowchallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|d:\\nowchallenge\\nowchallenge\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|solutionrelative:nowchallenge\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|D:\\nowchallenge\\nowchallenge\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|solutionrelative:nowchallenge\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|D:\\nowchallenge\\nowchallenge\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|solutionrelative:nowchallenge\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|D:\\nowchallenge\\nowchallenge\\quanlytaixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|solutionrelative:nowchallenge\\quanlytaixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|D:\\nowchallenge\\nowchallenge\\ighifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|solutionrelative:nowchallenge\\ighifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|D:\\nowchallenge\\nowchallenge\\lichsuthaotac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|solutionrelative:nowchallenge\\lichsuthaotac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|D:\\nowchallenge\\nowchallenge\\taixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|solutionrelative:nowchallenge\\taixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|D:\\nowchallenge\\nowchallenge\\dichvudatxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|solutionrelative:nowchallenge\\dichvudatxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|D:\\nowchallenge\\nowchallenge\\chuyendi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|solutionrelative:nowchallenge\\chuyendi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|D:\\nowchallenge\\nowchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|solutionrelative:nowchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|D:\\nowchallenge\\nowchallenge\\quanlyfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD61F54-39C0-4419-A370-AF7B7B426D15}|nowchallenge\\nowchallenge.csproj|solutionrelative:nowchallenge\\quanlyfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\nowchallenge\\nowchallenge\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "nowchallenge\\ClassDiagram1.cd",
+              "ToolTip": "D:\\nowchallenge\\nowchallenge\\ClassDiagram1.cd",
+              "RelativeToolTip": "nowchallenge\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-12-24T00:31:12.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLyTaiXe.cs",
+              "DocumentMoniker": "D:\\nowchallenge\\nowchallenge\\QuanLyTaiXe.cs",
+              "RelativeDocumentMoniker": "nowchallenge\\QuanLyTaiXe.cs",
+              "ToolTip": "D:\\nowchallenge\\nowchallenge\\QuanLyTaiXe.cs",
+              "RelativeToolTip": "nowchallenge\\QuanLyTaiXe.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAAkwGsBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T01:33:27.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuanLyFile.cs",
+              "DocumentMoniker": "D:\\nowchallenge\\nowchallenge\\QuanLyFile.cs",
+              "RelativeDocumentMoniker": "nowchallenge\\QuanLyFile.cs",
+              "ToolTip": "D:\\nowchallenge\\nowchallenge\\QuanLyFile.cs",
+              "RelativeToolTip": "nowchallenge\\QuanLyFile.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T01:31:43.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nowchallenge\\nowchallenge\\Program.cs",
+              "RelativeDocumentMoniker": "nowchallenge\\Program.cs",
+              "ToolTip": "D:\\nowchallenge\\nowchallenge\\Program.cs",
+              "RelativeToolTip": "nowchallenge\\Program.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAYwFwBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:47:20.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLyKhachHang.cs",
+              "DocumentMoniker": "D:\\nowchallenge\\nowchallenge\\QuanLyKhachHang.cs",
+              "RelativeDocumentMoniker": "nowchallenge\\QuanLyKhachHang.cs",
+              "ToolTip": "D:\\nowchallenge\\nowchallenge\\QuanLyKhachHang.cs*",
+              "RelativeToolTip": "nowchallenge\\QuanLyKhachHang.cs*",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAAFkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T02:10:38.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGhiFile.cs",
+              "DocumentMoniker": "D:\\nowchallenge\\nowchallenge\\IGhiFile.cs",
+              "RelativeDocumentMoniker": "nowchallenge\\IGhiFile.cs",
+              "ToolTip": "D:\\nowchallenge\\nowchallenge\\IGhiFile.cs",
+              "RelativeToolTip": "nowchallenge\\IGhiFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T04:57:38.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lichsuthaotac.cs",
+              "DocumentMoniker": "D:\\nowchallenge\\nowchallenge\\Lichsuthaotac.cs",
+              "RelativeDocumentMoniker": "nowchallenge\\Lichsuthaotac.cs",
+              "ToolTip": "D:\\nowchallenge\\nowchallenge\\Lichsuthaotac.cs",
+              "RelativeToolTip": "nowchallenge\\Lichsuthaotac.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:13:36.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Taixe.cs",
+              "DocumentMoniker": "D:\\nowchallenge\\nowchallenge\\Taixe.cs",
+              "RelativeDocumentMoniker": "nowchallenge\\Taixe.cs",
+              "ToolTip": "D:\\nowchallenge\\nowchallenge\\Taixe.cs",
+              "RelativeToolTip": "nowchallenge\\Taixe.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwEQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:48:37.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Khachhang.cs",
+              "DocumentMoniker": "D:\\nowchallenge\\nowchallenge\\Khachhang.cs",
+              "RelativeDocumentMoniker": "nowchallenge\\Khachhang.cs",
+              "ToolTip": "D:\\nowchallenge\\nowchallenge\\Khachhang.cs",
+              "RelativeToolTip": "nowchallenge\\Khachhang.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAADwvxIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:48:00.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DichVuDatXe.cs",
+              "DocumentMoniker": "D:\\nowchallenge\\nowchallenge\\DichVuDatXe.cs",
+              "RelativeDocumentMoniker": "nowchallenge\\DichVuDatXe.cs",
+              "ToolTip": "D:\\nowchallenge\\nowchallenge\\DichVuDatXe.cs",
+              "RelativeToolTip": "nowchallenge\\DichVuDatXe.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAuwPkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:16:37.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Chuyendi.cs",
+              "DocumentMoniker": "D:\\nowchallenge\\nowchallenge\\Chuyendi.cs",
+              "RelativeDocumentMoniker": "nowchallenge\\Chuyendi.cs",
+              "ToolTip": "D:\\nowchallenge\\nowchallenge\\Chuyendi.cs",
+              "RelativeToolTip": "nowchallenge\\Chuyendi.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAACoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:49:10.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
